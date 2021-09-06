@@ -11,7 +11,7 @@ This repository is having all codes with json files for making an inventory mana
 
 4.Sales and bills can be generated
 
-###I have added the following features per product:
+### I have added the following features per product:
 
 Name of product
 
@@ -24,7 +24,7 @@ Brand
 Size
 
 
-###My project can do the following :
+### My project can do the following :
 
 1.Purchase 
 
