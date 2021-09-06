@@ -17,7 +17,7 @@ Name of product
 
 Quantity
 
-Prize
+Price
 
 Brand
 
@@ -30,4 +30,4 @@ My project can do the following :
 
 2.Update Inventory 
 
-3.enerate bills
+3.Generate bills
